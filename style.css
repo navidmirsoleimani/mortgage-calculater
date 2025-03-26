@@ -6,7 +6,7 @@ body {
 }
 @font-face {
     font-family: this;
-    src: url(./PlusJakartaSans-VariableFont_wght.ttf);
+    src: url(PlusJakartaSans-VariableFont_wght.ttf);
 }
 * {
     margin : 0px;
